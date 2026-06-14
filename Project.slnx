@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Initiator/Initiator.csproj" Id="9c0a8e2c-0148-41c8-ace4-5de5fb06b438" />
+  <Project Path="Recipient/Recipient.csproj" />
+</Solution>
